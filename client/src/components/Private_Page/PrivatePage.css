@@ -1,0 +1,50 @@
+
+
+
+#container_color_admin{
+    background: linear-gradient(to bottom right, #7843E5, #37B6E0);
+    min-height: 469px; 
+}
+.card_shadow{
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+    
+}
+#link_dash{
+  text-decoration: none;
+  color: #0482AC;
+}
+.dashbroad{
+  color: #2c5469;
+    text-decoration: none;
+}
+.li_nave {
+  list-style-type: circle;
+}
+
+/* manageUser */
+.table_manage{
+  /* background-color: #37B6E0; */
+  box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+  /* border: solid 3px #4763E5; */
+  border-radius: 5px;
+  padding: 5px;
+  height: 500px;
+  /* overflow:scroll; */
+}
+/* category */
+.max_height{
+  height: 245px;
+}
+.max_heigth_picker{
+  max-width: 135px;
+  border-radius: 5px;
+  border: solid ;
+}
+/* FileUpload */
+
+img {
+  /* width: 50%; */
+  height: auto;
+}
+/* modal */
+

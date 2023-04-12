@@ -1,0 +1,10 @@
+/* .slider img{
+    height: 350;
+    object-fit: cover;
+}
+ */
+ @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Thai:wght@300&family=Sarabun:wght@500&display=swap');
+
+ *{
+    font-family: 'Sarabun', sans-serif;
+ }

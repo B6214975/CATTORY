@@ -1,0 +1,91 @@
+.pageheight{
+    min-height: 800px;
+}
+
+/* public */
+#container_color{
+    background: linear-gradient(to bottom right, #B0D7EC, #AFF0CD); 
+    min-height: 469px;
+}
+#btn_success{
+    background-color: #AFF0CD;
+}
+#btn_warning{
+    background-color: #FFE0BA;
+}
+.card_shadow{
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+    
+}
+/* Home */
+
+#searchBar{
+    background-color: rgb(175, 240, 205 ,20%);
+}
+
+/* History */
+#card_warning{
+    background-color: #FFE0BA;
+}
+
+
+img {
+    /* width: 50%; */
+    height: auto;
+  }
+
+#addtocart{
+    background-color: #B0D7EC;
+}
+
+#addtocart:hover{
+    background-color: #AFF0CD;
+}
+
+/* card_home && product */
+#badge_card{
+    background-color: rgb(255, 132, 96 , 60%);
+    height: 60px;
+    width: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px 0px 10px 0px;
+    color: #0878B4;
+}
+#a_link{
+    color: #4D96BD;
+    text-decoration: none;
+}
+#bg_img{
+    background-color: #B0D7EC;
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+}
+#btn_delete:hover{
+    background-color: rgb(255, 132, 96 ,30%);
+}
+#textlink_color{
+    color: #4D96BD;
+}
+.div_soldout{
+    min-height: 217px;
+}
+.alert_price{
+    position: fixed;
+    z-index: 1;
+    right:  20px;
+    top: 100px;
+}
+
+/* check out */
+
+.B_qr{
+    background: linear-gradient(to bottom right, #B0D7EC, #AFF0CD); 
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+}
+.resule_div{
+    /* margin-bottom: 160px; */
+}
