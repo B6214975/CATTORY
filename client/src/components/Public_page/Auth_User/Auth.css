@@ -1,0 +1,39 @@
+
+#container_color{
+    background: linear-gradient(to bottom right, #B0D7EC, #AFF0CD); 
+}
+.card_shadow{
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+    
+}
+#btn_success{
+    background-color: #AFF0CD;
+}
+
+/* login */
+#register{
+   color: #4D96BD;
+   text-decoration: none;
+}
+#forgot{
+    color: #FFB760;
+    text-decoration: none;
+}
+
+/* validation */
+span{
+    font-size: 12px;
+    padding: 3px;
+    color: red;
+    display: none;
+    /* margin-top: 1px; */
+    margin-bottom: 5px;
+}
+
+input:invalid[focused="true"]{
+    border: 1px solid red;
+}
+
+input:invalid[focused="true"] ~ span{
+    display: block;
+}

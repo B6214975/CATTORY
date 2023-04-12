@@ -1,0 +1,24 @@
+#navcss{
+    background-color: #AFF0CD;
+    /* background-color: antiquewhite; */
+}
+.logo_wab{
+    width: auto;
+    height: 50px;
+}
+.divLogo{
+    align-content: center;
+}
+.footer{
+    height: 200px;
+    background-color: #B0D7EC;
+}
+.card_shadow_nav{
+    box-shadow: 0 0.5px 10px rgb(0 0 0 / 0.2);
+    
+}
+#text-color{
+    color: #ffff;
+    text-shadow: 2px 2px #cacbce;
+    
+}
